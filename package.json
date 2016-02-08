@@ -10,7 +10,7 @@
   "license": "MIT",
   "peerDependencies": {
     "webpack": "1.x",
-    "webpack": "2.x"
+    "jasmine": "2.x"
   },
   "devDependencies": {
     "webpack": "1.12.9",
