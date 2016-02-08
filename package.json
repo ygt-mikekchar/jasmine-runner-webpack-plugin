@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-runner-webpack-plugin",
+  "version": "0.0.1",
+  "author": "Mike Charlton",
+  "description": "Run jasmine tests in node following a build.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/webpack/extract-text-webpack-plugin.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "1.x",
+    "webpack": "2.x"
+  },
+  "devDependencies": {
+    "webpack": "1.12.9",
+    "jasmine": "2.3.2"
+  },
+  "scripts": {
+    "test": "webpack"
+  }
+}
